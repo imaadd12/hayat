@@ -1,4 +1,7 @@
 sonar.projectKey=hayat
+sonar.qualitygate.wait=false
+sonar.login=sqp_e6d01ed630d546d47c50ec74229a7f085b4c2e74
+sonar.host.url=https://917759d87a1b.ngrok-free.app
 sonar.projectName=hayat
 sonar.sources=.
 sonar.exclusions=**/tests/**
