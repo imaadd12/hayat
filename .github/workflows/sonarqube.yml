@@ -30,4 +30,4 @@ jobs:
           projectBaseDir: .
         env:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
-          SONAR_HOST_URL: "https://917759d87a1b.ngrok-free.app"  # Replace with your public ngrok URL
+          SONAR_HOST_URL: "https://f91c2e38b2a3.ngrok-free.app"  # Replace with your public ngrok URL
